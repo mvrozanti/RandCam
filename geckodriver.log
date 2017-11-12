@@ -1,0 +1,1467 @@
+1510439593022	geckodriver	INFO	geckodriver 0.19.1
+1510439593026	geckodriver	INFO	Listening on 127.0.0.1:53423
+1510439594147	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.79JRdOrCJjql"
+
+(firefox:20526): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510439594358	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1510439594629	Marionette	INFO	Enabled via --marionette
+
+(firefox:20526): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:20581): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:20581): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510439595458	Marionette	INFO	Listening on port 33307
+1510439595556	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510439595587	Marionette	DEBUG	Register listener.js for window 2147483649
+1510439595604	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510439596468	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510439596469	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510439597005	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.insecam.org/en/bynew/"
+1510439597029	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+1510439598327	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483698"
+[Child 20581] WARNING: pipe error (34): Connection reset by peer: file /build/firefox-8QqMt9/firefox-56.0+linuxmint1+sonya/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1510439621834	geckodriver	INFO	geckodriver 0.19.1
+1510439621836	geckodriver	INFO	Listening on 127.0.0.1:37937
+1510439622956	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.pmqJb81GlK6L"
+
+(firefox:20697): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510439623198	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1510439623482	Marionette	INFO	Enabled via --marionette
+
+(firefox:20697): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:20753): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:20753): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510439624340	Marionette	INFO	Listening on port 38201
+1510439624367	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510439624399	Marionette	DEBUG	Register listener.js for window 2147483649
+1510439624425	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510439626380	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510439626380	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510439626926	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.insecam.org/en/bynew/"
+1510439626949	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+1510439628279	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483699"
+1510439635083	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.insecam.org/en/bynew/"
+JavaScript error: https://www.insecam.org/en/bynew/, line 56: ReferenceError: _gaq is not defined
+1510439864110	geckodriver	INFO	geckodriver 0.19.1
+1510439864113	geckodriver	INFO	Listening on 127.0.0.1:59755
+1510439865231	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.9jCCIaURLTVy"
+
+(firefox:21157): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510439865453	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1510439865725	Marionette	INFO	Enabled via --marionette
+
+(firefox:21157): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:21216): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:21216): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510439866592	Marionette	INFO	Listening on port 43429
+1510439866643	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510439866672	Marionette	DEBUG	Register listener.js for window 2147483649
+1510439866700	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510439867581	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510439867582	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510439868171	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.insecam.org/en/bynew/"
+1510439868198	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+1510439884825	geckodriver	INFO	geckodriver 0.19.1
+1510439884827	geckodriver	INFO	Listening on 127.0.0.1:48303
+1510439885935	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.sOuQZ92h1FVv"
+
+(firefox:21323): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510439886139	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1510439886420	Marionette	INFO	Enabled via --marionette
+
+(firefox:21323): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:21380): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:21380): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510439887279	Marionette	INFO	Listening on port 38801
+1510439887348	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510439887377	Marionette	DEBUG	Register listener.js for window 2147483649
+1510439887398	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510439888280	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510439888281	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510439888864	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.insecam.org/en/bynew/"
+1510439888884	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+1510439973408	geckodriver	INFO	geckodriver 0.19.1
+1510439973411	geckodriver	INFO	Listening on 127.0.0.1:35849
+1510439974525	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.GF5rXjSTDd7X"
+
+(firefox:21563): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510439974787	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1510439975059	Marionette	INFO	Enabled via --marionette
+
+(firefox:21563): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:21617): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:21617): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510439975909	Marionette	INFO	Listening on port 43103
+1510439975946	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510439975974	Marionette	DEBUG	Register listener.js for window 2147483649
+1510439976020	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510439976936	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510439976937	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510439977474	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.insecam.org/en/bynew/"
+1510439977486	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+1510439978782	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483698"
+1510439979425	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483702"
+1510439996762	geckodriver	INFO	geckodriver 0.19.1
+1510439996766	geckodriver	INFO	Listening on 127.0.0.1:51457
+1510439997888	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.rN6mXDiIuozD"
+
+(firefox:21719): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510439998134	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1510439998405	Marionette	INFO	Enabled via --marionette
+
+(firefox:21719): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:21773): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:21773): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510439999250	Marionette	INFO	Listening on port 39177
+1510439999302	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510439999331	Marionette	DEBUG	Register listener.js for window 2147483649
+1510439999362	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510440000284	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510440000284	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510440000893	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.insecam.org/en/bynew/"
+1510440000916	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+1510440002283	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483698"
+1510440012348	geckodriver	INFO	geckodriver 0.19.1
+1510440012350	geckodriver	INFO	Listening on 127.0.0.1:33871
+1510440013415	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.djaakHwmYnZy"
+
+(firefox:21875): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510440013642	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1510440013925	Marionette	INFO	Enabled via --marionette
+
+(firefox:21875): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:21929): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:21929): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510440014850	Marionette	INFO	Listening on port 36713
+1510440014927	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510440014961	Marionette	DEBUG	Register listener.js for window 2147483649
+1510440015007	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510440016225	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510440016225	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+1510440017244	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.insecam.org/en/bynew/"
+1510440017245	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1510440060693	geckodriver	INFO	geckodriver 0.19.1
+1510440060697	geckodriver	INFO	Listening on 127.0.0.1:56605
+1510440061759	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.VmR9DKuM4aXp"
+
+(firefox:22048): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510440061992	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1510440062278	Marionette	INFO	Enabled via --marionette
+
+(firefox:22048): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:22101): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:22101): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510440063250	Marionette	INFO	Listening on port 46493
+1510440063279	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510440063322	Marionette	DEBUG	Register listener.js for window 2147483649
+1510440063377	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510440064004	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510440064004	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510440064575	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.insecam.org/en/bynew/"
+1510440064590	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+1510440066021	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483698"
+JavaScript error: https://www.insecam.org/en/bynew/, line 56: ReferenceError: _gaq is not defined
+1510440092311	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.insecam.org/en/bynew/"
+1510440144403	geckodriver	INFO	geckodriver 0.19.1
+1510440144406	geckodriver	INFO	Listening on 127.0.0.1:57789
+1510440145469	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Z1D2lNUoC2jJ"
+
+(firefox:22253): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510440145708	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1510440146021	Marionette	INFO	Enabled via --marionette
+
+(firefox:22253): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:22307): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:22307): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510440147031	Marionette	INFO	Listening on port 44053
+1510440147084	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510440147126	Marionette	DEBUG	Register listener.js for window 2147483649
+1510440147168	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510440148160	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510440148160	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+1510440149056	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.insecam.org/en/bynew/"
+1510440149058	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+JavaScript error: https://www.insecam.org/en/bynew/, line 56: ReferenceError: _gaq is not defined
+1510440169801	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.insecam.org/en/bynew/"
+1510440178560	geckodriver	INFO	geckodriver 0.19.1
+1510440178563	geckodriver	INFO	Listening on 127.0.0.1:37051
+1510440179629	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.17rF1Sh48tgj"
+
+(firefox:22438): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510440179838	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1510440180140	Marionette	INFO	Enabled via --marionette
+
+(firefox:22438): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:22493): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:22493): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510440181052	Marionette	INFO	Listening on port 41159
+1510440181145	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510440181187	Marionette	DEBUG	Register listener.js for window 2147483649
+1510440181208	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510440182132	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510440182132	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510440182677	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.insecam.org/en/bynew/"
+1510440182680	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+JavaScript error: https://www.insecam.org/en/bynew/, line 56: ReferenceError: _gaq is not defined
+
+(/usr/lib/firefox/firefox:22573): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:22573): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510440224173	Marionette	DEBUG	Register listener.js for window 4294967297
+1510440241545	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.insecam.org/en/bynew/"
+JavaScript error: https://www.insecam.org/en/faq/, line 56: ReferenceError: _gaq is not defined
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+1510440275557	geckodriver	INFO	geckodriver 0.19.1
+1510440275559	geckodriver	INFO	Listening on 127.0.0.1:38503
+1510440275804	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.0Iiw4wWriJpH"
+
+(firefox:22669): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510440276019	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1510440276297	Marionette	INFO	Enabled via --marionette
+
+(firefox:22669): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:22729): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:22729): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510440277192	Marionette	INFO	Listening on port 43451
+1510440277215	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510440277247	Marionette	DEBUG	Register listener.js for window 2147483649
+1510440277309	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510440277919	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510440277919	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510440278414	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.insecam.org/en/bynew/"
+1510440278457	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+1510440279846	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483703"
+JavaScript error: https://www.insecam.org/en/bynew/, line 56: ReferenceError: _gaq is not defined
+1510440311751	geckodriver	INFO	geckodriver 0.19.1
+1510440311754	geckodriver	INFO	Listening on 127.0.0.1:49269
+1510440312828	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.NPYrlT0LWqkV"
+
+(firefox:22866): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510440313073	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1510440313404	Marionette	INFO	Enabled via --marionette
+
+(firefox:22866): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:22919): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:22919): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510440314463	Marionette	INFO	Listening on port 40627
+1510440314546	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510440314594	Marionette	DEBUG	Register listener.js for window 2147483649
+1510440314612	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510440315225	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510440315225	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510440315828	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.insecam.org/en/bynew/"
+1510440315851	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+1510440317446	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483704"
+1510440318541	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483693"
+1510440318541	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483702"
+1510440318542	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483684"
+1510440318542	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483672"
+1510440318542	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1510440318543	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483690"
+1510440318543	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483692"
+1510440318543	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483697"
+1510440318543	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483688"
+1510440318543	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483678"
+1510440318544	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1510440318544	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483691"
+1510440318544	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483681"
+1510440318544	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1510440318544	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1510440318545	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1510440318545	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483669"
+1510440318545	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483674"
+1510440318545	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1510440318546	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483649"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1510440334488	geckodriver	INFO	geckodriver 0.19.1
+1510440334491	geckodriver	INFO	Listening on 127.0.0.1:55827
+1510440335558	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.7Fo6ZNq657dy"
+
+(firefox:23003): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510440335800	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1510440336087	Marionette	INFO	Enabled via --marionette
+
+(firefox:23003): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:23056): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:23056): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510440337156	Marionette	INFO	Listening on port 42229
+1510440337195	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510440337229	Marionette	DEBUG	Register listener.js for window 2147483649
+1510440337256	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510440337864	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510440337864	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510440338484	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.insecam.org/en/bynew/"
+1510440338500	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+1510440340625	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483698"
+JavaScript error: https://www.insecam.org/en/bynew/, line 56: ReferenceError: _gaq is not defined
+1510440363293	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.insecam.org/en/bynew/"
+1510440431006	geckodriver	INFO	geckodriver 0.19.1
+1510440431010	geckodriver	INFO	Listening on 127.0.0.1:35713
+1510440432086	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.TmsGur8AegTi"
+
+(firefox:23187): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510440432361	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1510440432645	Marionette	INFO	Enabled via --marionette
+
+(firefox:23187): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:23241): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:23241): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510440433613	Marionette	INFO	Listening on port 33033
+1510440433712	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510440433749	Marionette	DEBUG	Register listener.js for window 2147483649
+1510440433773	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510440434686	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510440434686	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510440435219	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.insecam.org/en/bynew/"
+1510440435240	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+1510440436681	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483702"
+1510440442506	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483694"
+1510440442507	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483700"
+1510440442507	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483684"
+1510440442507	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483672"
+1510440442508	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1510440442508	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483690"
+1510440442508	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483691"
+1510440442508	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483693"
+1510440442509	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483687"
+1510440442509	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483678"
+1510440442509	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1510440442510	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483695"
+1510440442510	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483681"
+1510440442510	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1510440442510	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1510440442510	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1510440442511	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483669"
+1510440442511	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1510440442511	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1510440442511	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483649"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1510440446238	geckodriver	INFO	geckodriver 0.19.1
+1510440446241	geckodriver	INFO	Listening on 127.0.0.1:47859
+1510440447310	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.FS2TrDZpb8dt"
+
+(firefox:23343): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510440447516	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1510440447845	Marionette	INFO	Enabled via --marionette
+
+(firefox:23343): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:23396): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:23396): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510440448799	Marionette	INFO	Listening on port 37521
+1510440448828	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510440448870	Marionette	DEBUG	Register listener.js for window 2147483649
+1510440448912	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510440449528	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510440449528	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510440450125	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.insecam.org/en/bynew/"
+1510440450156	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+1510440451610	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483703"
+1510440452706	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483708"
+1510440456105	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.insecam.org/en/bynew/"
+1510440469955	geckodriver	INFO	geckodriver 0.19.1
+1510440469958	geckodriver	INFO	Listening on 127.0.0.1:37921
+JavaScript error: https://www.insecam.org/en/bynew/, line 56: ReferenceError: _gaq is not defined
+1510440471025	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.pL7vC45BbIOG"
+
+(firefox:23488): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510440471229	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1510440471531	Marionette	INFO	Enabled via --marionette
+
+(firefox:23488): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:23542): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:23542): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510440472458	Marionette	INFO	Listening on port 40233
+1510440472544	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510440472592	Marionette	DEBUG	Register listener.js for window 2147483649
+1510440472611	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510440473210	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510440473211	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510440473773	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.insecam.org/en/bynew/"
+1510440473805	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+1510440486382	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.insecam.org/en/bynew/"
+JavaScript error: https://www.insecam.org/en/bynew/, line 56: ReferenceError: _gaq is not defined
+1510440774574	geckodriver	INFO	geckodriver 0.19.1
+1510440774580	geckodriver	INFO	Listening on 127.0.0.1:43941
+1510440775683	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.SUQtyC33Jj1a"
+
+(firefox:24035): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510440775939	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1510440776212	Marionette	INFO	Enabled via --marionette
+
+(firefox:24035): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:24094): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:24094): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510440777082	Marionette	INFO	Listening on port 43127
+1510440777094	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510440777134	Marionette	DEBUG	Register listener.js for window 2147483649
+1510440777178	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510440778060	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510440778061	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+1510440779026	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.insecam.org/en/bynew/"
+1510440779026	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1510440796276	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.insecam.org/en/bynew/"
+JavaScript error: https://www.insecam.org/en/bynew/, line 56: ReferenceError: _gaq is not defined
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x42000F,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4B0029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1510441456475	geckodriver	INFO	geckodriver 0.19.1
+1510441456478	geckodriver	INFO	Listening on 127.0.0.1:33967
+1510441457578	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.CUCuezRLPRtu"
+
+(firefox:24988): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510441457797	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1510441458068	Marionette	INFO	Enabled via --marionette
+
+(firefox:24988): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:25042): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:25042): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510441458922	Marionette	INFO	Listening on port 43781
+1510441459002	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510441459031	Marionette	DEBUG	Register listener.js for window 2147483649
+1510441472778	geckodriver	INFO	geckodriver 0.19.1
+1510441472780	geckodriver	INFO	Listening on 127.0.0.1:45923
+1510441473896	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.bwf802LHqA5J"
+
+(firefox:25120): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510441474109	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1510441474393	Marionette	INFO	Enabled via --marionette
+
+(firefox:25120): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:25175): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:25175): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510441475236	Marionette	INFO	Listening on port 43637
+1510441475315	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510441475347	Marionette	DEBUG	Register listener.js for window 2147483649
+1510441475364	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510441476372	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510441476373	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+1510441477462	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.insecam.org/en/bynew/"
+1510441477463	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1510441491275	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.insecam.org/en/bynew/"
+JavaScript error: https://www.insecam.org/en/bynew/, line 56: ReferenceError: _gaq is not defined
+1510441497507	geckodriver	INFO	geckodriver 0.19.1
+1510441497509	geckodriver	INFO	Listening on 127.0.0.1:33875
+1510441498634	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.v5P8141JRL1W"
+
+(firefox:25269): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510441498830	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1510441499114	Marionette	INFO	Enabled via --marionette
+
+(firefox:25269): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:25326): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:25326): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510441499969	Marionette	INFO	Listening on port 42355
+1510441500058	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510441500090	Marionette	DEBUG	Register listener.js for window 2147483649
+1510441500111	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510441501000	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510441501000	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510441501594	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.insecam.org/en/bynew/"
+1510441501617	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+1510441502997	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483698"
+1510441513968	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.insecam.org/en/bynew/"
+JavaScript error: https://www.insecam.org/en/bynew/, line 56: ReferenceError: _gaq is not defined
+1510441602107	geckodriver	INFO	geckodriver 0.19.1
+1510441602109	geckodriver	INFO	Listening on 127.0.0.1:35901
+1510441603219	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.pi1Q1quJlKuZ"
+
+(firefox:25473): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510441603430	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1510441603711	Marionette	INFO	Enabled via --marionette
+
+(firefox:25473): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:25528): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:25528): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510441604572	Marionette	INFO	Listening on port 34125
+1510441604631	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510441604661	Marionette	DEBUG	Register listener.js for window 2147483649
+1510441604700	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510441605565	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510441605565	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510441606113	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.insecam.org/en/bynew/"
+1510441606132	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+1510441607597	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483698"
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x42000F,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4B0029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1510441612954	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483696"
+1510441612955	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483672"
+1510441612955	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1510441612955	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483688"
+1510441612955	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483689"
+1510441612956	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483691"
+1510441612956	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483685"
+1510441612957	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483678"
+1510441612957	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1510441612957	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483692"
+1510441612958	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483681"
+1510441612958	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1510441612959	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1510441612959	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1510441612959	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483669"
+1510441612959	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1510441612959	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1510441612960	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483649"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1510441616233	geckodriver	INFO	geckodriver 0.19.1
+1510441616236	geckodriver	INFO	Listening on 127.0.0.1:47035
+1510441617348	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.GXrFGAOndH0a"
+
+(firefox:25619): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510441617561	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1510441617842	Marionette	INFO	Enabled via --marionette
+
+(firefox:25619): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:25674): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:25674): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510441618726	Marionette	INFO	Listening on port 40719
+1510441618779	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510441618823	Marionette	DEBUG	Register listener.js for window 2147483649
+1510441618850	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510441619489	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510441619489	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510441620095	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.insecam.org/en/bynew/"
+1510441620128	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1510441621446	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483703"
+1510441632276	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.insecam.org/en/bynew/"
+JavaScript error: https://www.insecam.org/en/bynew/, line 56: ReferenceError: _gaq is not defined
+1510441707576	geckodriver	INFO	geckodriver 0.19.1
+1510441707578	geckodriver	INFO	Listening on 127.0.0.1:53871
+1510441708687	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.CUuJKfr7tFmF"
+
+(firefox:25838): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510441708909	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1510441709185	Marionette	INFO	Enabled via --marionette
+
+(firefox:25838): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:25893): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:25893): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510441710050	Marionette	INFO	Listening on port 40005
+1510441710100	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510441710133	Marionette	DEBUG	Register listener.js for window 2147483649
+1510441710166	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510441711091	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510441711091	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510441711623	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.insecam.org/en/bynew/"
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+1510441711675	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1510441713842	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483698"
+JavaScript error: https://www.insecam.org/en/bynew/, line 56: ReferenceError: _gaq is not defined
+1510441741908	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.insecam.org/en/bynew/"
+1510441804427	geckodriver	INFO	geckodriver 0.19.1
+1510441804431	geckodriver	INFO	Listening on 127.0.0.1:48767
+1510441805553	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.MTICDR9SCbbP"
+
+(firefox:26083): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510441805822	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1510441806101	Marionette	INFO	Enabled via --marionette
+
+(firefox:26083): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:26143): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:26143): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510441806929	Marionette	INFO	Listening on port 34195
+1510441806974	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510441807003	Marionette	DEBUG	Register listener.js for window 2147483649
+1510441807046	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510441807928	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510441807928	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510441808498	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.insecam.org/en/bynew/"
+1510441808522	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+1510441809923	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483699"
+1510441810435	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483703"
+1510441815461	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.insecam.org/en/bynew/"
+JavaScript error: https://www.insecam.org/en/bynew/, line 56: ReferenceError: _gaq is not defined
+1510441829269	geckodriver	INFO	geckodriver 0.19.1
+1510441829273	geckodriver	INFO	Listening on 127.0.0.1:39403
+1510441830388	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.EjJTNkK7lxyb"
+
+(firefox:26246): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510441830593	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1510441830866	Marionette	INFO	Enabled via --marionette
+
+(firefox:26246): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:26306): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:26306): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510441831710	Marionette	INFO	Listening on port 44369
+1510441831821	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510441831855	Marionette	DEBUG	Register listener.js for window 2147483649
+1510441831868	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510441832755	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510441832755	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510441833283	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.insecam.org/en/bynew/"
+1510441833313	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+[Child 26143] WARNING: pipe error: Broken pipe: file /build/firefox-8QqMt9/firefox-56.0+linuxmint1+sonya/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 26143] WARNING: pipe error: Broken pipe: file /build/firefox-8QqMt9/firefox-56.0+linuxmint1+sonya/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 26083] WARNING: pipe error (37): Connection reset by peer: file /build/firefox-8QqMt9/firefox-56.0+linuxmint1+sonya/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1510441834669	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483698"
+1510441841039	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.insecam.org/en/bynew/"
+JavaScript error: https://www.insecam.org/en/bynew/, line 56: ReferenceError: _gaq is not defined
+1510441958013	geckodriver	INFO	geckodriver 0.19.1
+1510441958015	geckodriver	INFO	Listening on 127.0.0.1:37233
+1510441959121	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.gTm75PKUOZXI"
+
+(firefox:26546): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510441959366	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1510441959639	Marionette	INFO	Enabled via --marionette
+
+(firefox:26546): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:26601): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:26601): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510441960480	Marionette	INFO	Listening on port 40767
+1510441960535	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510441960564	Marionette	DEBUG	Register listener.js for window 2147483649
+1510441960595	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510441961521	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510441961522	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+1510441962312	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.insecam.org/en/bynew/"
+1510441962313	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1510441972676	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.insecam.org/en/bynew/"
+JavaScript error: https://www.insecam.org/en/bynew/, line 56: ReferenceError: _gaq is not defined
+1510441992168	geckodriver	INFO	geckodriver 0.19.1
+1510441992170	geckodriver	INFO	Listening on 127.0.0.1:40151
+1510441993284	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.hLgX6LpJOr7t"
+
+(firefox:26727): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510441993543	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1510441993833	Marionette	INFO	Enabled via --marionette
+
+(firefox:26727): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:26783): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:26783): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510441994671	Marionette	INFO	Listening on port 46659
+1510441994698	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510441994728	Marionette	DEBUG	Register listener.js for window 2147483649
+1510441994780	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510441995699	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510441995699	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+1510441996802	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.insecam.org/en/bynew/"
+1510441996803	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1510442005463	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.insecam.org/en/bynew/"
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 26601] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-8QqMt9/firefox-56.0+linuxmint1+sonya/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1510442012439	geckodriver	INFO	geckodriver 0.19.1
+1510442012442	geckodriver	INFO	Listening on 127.0.0.1:56525
+1510442013553	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.2xfmWkcyKaf5"
+
+(firefox:26882): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510442013772	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1510442014043	Marionette	INFO	Enabled via --marionette
+
+(firefox:26882): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:26937): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:26937): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510442014907	Marionette	INFO	Listening on port 39599
+1510442014965	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510442014995	Marionette	DEBUG	Register listener.js for window 2147483649
+1510442015027	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510442015951	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510442015951	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+1510442016975	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.insecam.org/en/bynew/"
+1510442016975	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1510442031305	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.insecam.org/en/bynew/"
+JavaScript error: https://www.insecam.org/en/bynew/, line 56: ReferenceError: _gaq is not defined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1510442132281	geckodriver	INFO	geckodriver 0.19.1
+1510442132283	geckodriver	INFO	Listening on 127.0.0.1:36299
+1510442133347	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.h9qBWRP9vsCN"
+
+(firefox:27183): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510442133569	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1510442133857	Marionette	INFO	Enabled via --marionette
+
+(firefox:27183): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:27239): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:27239): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510442134743	Marionette	INFO	Listening on port 43473
+1510442134765	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510442134795	Marionette	DEBUG	Register listener.js for window 2147483649
+1510442134809	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510442141613	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510442141614	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+1510442142401	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.insecam.org/en/bynew/"
+1510442142402	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1510442151333	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.insecam.org/en/bynew/"
+JavaScript error: https://www.insecam.org/en/bynew/, line 56: ReferenceError: _gaq is not defined
+1510442222712	geckodriver	INFO	geckodriver 0.19.1
+1510442222715	geckodriver	INFO	Listening on 127.0.0.1:51781
+1510442223829	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.uvM2Pcdx2O1S"
+
+(firefox:27376): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510442224023	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1510442224294	Marionette	INFO	Enabled via --marionette
+
+(firefox:27376): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:27432): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:27432): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510442225135	Marionette	INFO	Listening on port 39301
+1510442225237	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510442225266	Marionette	DEBUG	Register listener.js for window 2147483649
+1510442225282	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510442226217	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510442226217	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510442226731	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.insecam.org/en/bynew/"
+1510442226777	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+1510442228165	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483701"
+1510442242272	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.insecam.org/en/bynew/"
+JavaScript error: https://www.insecam.org/en/bynew/, line 56: ReferenceError: _gaq is not defined
+1510442342511	geckodriver	INFO	geckodriver 0.19.1
+1510442342513	geckodriver	INFO	Listening on 127.0.0.1:58017
+1510442343612	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.WITivS5W6EMf"
+
+(firefox:27591): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510442343803	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1510442344089	Marionette	INFO	Enabled via --marionette
+
+(firefox:27591): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:27646): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:27646): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510442344939	Marionette	INFO	Listening on port 37291
+1510442345029	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510442345060	Marionette	DEBUG	Register listener.js for window 2147483649
+1510442345077	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510442346017	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510442346018	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510442346503	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.insecam.org/en/bynew/"
+1510442346515	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+1510442348029	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483701"
+1510442366198	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.insecam.org/en/bynew/"
+JavaScript error: https://www.insecam.org/en/bynew/, line 56: ReferenceError: _gaq is not defined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1510442630909	geckodriver	INFO	geckodriver 0.19.1
+1510442630911	geckodriver	INFO	Listening on 127.0.0.1:44115
+1510442632016	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.nmGHNlpsX6s8"
+
+(firefox:28073): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510442632271	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1510442632552	Marionette	INFO	Enabled via --marionette
+
+(firefox:28073): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:28127): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:28127): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510442633406	Marionette	INFO	Listening on port 43899
+1510442633428	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510442633458	Marionette	DEBUG	Register listener.js for window 2147483649
+1510442633484	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510442634393	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510442634393	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510442634902	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.insecam.org/en/bynew/"
+1510442634923	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+1510442655049	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.insecam.org/en/bynew/"
+JavaScript error: https://www.insecam.org/en/bynew/, line 56: ReferenceError: _gaq is not defined
+1510442676970	geckodriver	INFO	geckodriver 0.19.1
+1510442676973	geckodriver	INFO	Listening on 127.0.0.1:32975
+1510442678083	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.8twgJ9esjaln"
+
+(firefox:28325): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510442678298	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1510442678572	Marionette	INFO	Enabled via --marionette
+
+(firefox:28325): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:28381): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:28381): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510442679441	Marionette	INFO	Listening on port 36613
+1510442679490	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510442679519	Marionette	DEBUG	Register listener.js for window 2147483649
+1510442679556	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510442680169	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510442680170	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510442680716	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.insecam.org/en/bynew/"
+1510442680733	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+1510442682230	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483701"
+1510442699061	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.insecam.org/en/bynew/"
+JavaScript error: https://www.insecam.org/en/bynew/, line 56: ReferenceError: _gaq is not defined
+1510442768529	geckodriver	INFO	geckodriver 0.19.1
+1510442768532	geckodriver	INFO	Listening on 127.0.0.1:50745
+1510442769632	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.0UrIKbhWUn4A"
+
+(firefox:28533): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510442769870	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1510442770170	Marionette	INFO	Enabled via --marionette
+
+(firefox:28533): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:28588): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:28588): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510442771086	Marionette	INFO	Listening on port 41601
+1510442771146	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510442771178	Marionette	DEBUG	Register listener.js for window 2147483649
+1510442771192	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510442772924	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510442772925	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510442773500	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.insecam.org/en/bynew/"
+1510442773524	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+1510442774963	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483700"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1510442784782	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.insecam.org/en/bynew/"
+1510442833869	geckodriver	INFO	geckodriver 0.19.1
+1510442833871	geckodriver	INFO	Listening on 127.0.0.1:42817
+1510442834966	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.bJavusbNTq9B"
+
+(firefox:28723): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510442835187	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1510442835473	Marionette	INFO	Enabled via --marionette
+
+(firefox:28723): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:28779): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:28779): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510442836326	Marionette	INFO	Listening on port 45021
+1510442836378	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510442836414	Marionette	DEBUG	Register listener.js for window 2147483649
+1510442836440	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510442837985	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510442837985	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510442838479	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.insecam.org/en/bynew/"
+1510442838501	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+1510442851641	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.insecam.org/en/bynew/"
+1510442865841	geckodriver	INFO	geckodriver 0.19.1
+1510442865844	geckodriver	INFO	Listening on 127.0.0.1:58475
+1510442866942	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.R4gp4p5aPmHD"
+
+(firefox:28883): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510442867202	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1510442867487	Marionette	INFO	Enabled via --marionette
+
+(firefox:28883): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:28939): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:28939): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510442868369	Marionette	INFO	Listening on port 34989
+1510442868458	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510442868491	Marionette	DEBUG	Register listener.js for window 2147483649
+1510442868566	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510442869426	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510442869426	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510442869935	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.insecam.org/en/bynew/"
+1510442869957	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+1510442872114	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483704"
+1510442872114	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483706"
+1510442885336	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.insecam.org/en/bynew/"
+JavaScript error: https://www.insecam.org/en/bynew/, line 56: ReferenceError: _gaq is not defined
+1510442949430	geckodriver	INFO	geckodriver 0.19.1
+1510442949432	geckodriver	INFO	Listening on 127.0.0.1:59703
+1510442950536	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.57sqw7z3DxZW"
+
+(firefox:29094): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510442950734	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1510442951017	Marionette	INFO	Enabled via --marionette
+
+(firefox:29094): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:29149): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:29149): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510442951887	Marionette	INFO	Listening on port 35553
+1510442951963	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510442952005	Marionette	DEBUG	Register listener.js for window 2147483649
+1510442952023	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510442952942	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510442952942	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510442953439	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.insecam.org/en/bynew/"
+1510442953461	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+1510442955026	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483703"
+1510442958113	geckodriver	INFO	geckodriver 0.19.1
+1510442958116	geckodriver	INFO	Listening on 127.0.0.1:38763
+1510442959234	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.xrkizXlFy7Tu"
+
+(firefox:29234): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510442959478	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1510442959805	Marionette	INFO	Enabled via --marionette
+
+(firefox:29234): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:29292): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:29292): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510442960709	Marionette	INFO	Listening on port 43873
+1510442960750	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510442960788	Marionette	DEBUG	Register listener.js for window 2147483649
+1510442960808	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510442961444	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510442961444	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510442962000	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.insecam.org/en/bynew/"
+1510442962024	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+1510442975042	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.insecam.org/en/bynew/"
+JavaScript error: https://www.insecam.org/en/bynew/, line 56: ReferenceError: _gaq is not defined
+1510443101325	geckodriver	INFO	geckodriver 0.19.1
+1510443101328	geckodriver	INFO	Listening on 127.0.0.1:42449
+1510443102432	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.UBwxtD58eCK2"
+
+(firefox:30186): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510443102698	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1510443102971	Marionette	INFO	Enabled via --marionette
+
+(firefox:30186): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:30240): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:30240): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510443103810	Marionette	INFO	Listening on port 42049
+1510443103848	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510443103881	Marionette	DEBUG	Register listener.js for window 2147483649
+1510443103922	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510443104816	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510443104816	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510443105411	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.insecam.org/en/bynew/"
+1510443105429	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+1510443116970	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.insecam.org/en/bynew/"
+JavaScript error: https://www.insecam.org/en/bynew/, line 56: ReferenceError: _gaq is not defined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 29292] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-8QqMt9/firefox-56.0+linuxmint1+sonya/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1510443159230	geckodriver	INFO	geckodriver 0.19.1
+1510443159233	geckodriver	INFO	Listening on 127.0.0.1:40615
+1510443160351	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.WmqfzwEDgpD6"
+
+(firefox:30384): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510443160566	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1510443160841	Marionette	INFO	Enabled via --marionette
+
+(firefox:30384): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:30438): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:30438): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510443161710	Marionette	INFO	Listening on port 40875
+1510443161763	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510443161792	Marionette	DEBUG	Register listener.js for window 2147483649
+1510443161819	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510443162734	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510443162734	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510443163297	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.insecam.org/en/bynew/"
+1510443163336	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+1510443168310	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483709"
+1510443175968	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.insecam.org/en/bynew/"
+JavaScript error: https://www.insecam.org/en/bynew/, line 56: ReferenceError: _gaq is not defined
+1510443293901	geckodriver	INFO	geckodriver 0.19.1
+1510443293903	geckodriver	INFO	Listening on 127.0.0.1:33735
+1510443294986	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.BwnGEeGWjGMG"
+
+(firefox:30583): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510443295218	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1510443295497	Marionette	INFO	Enabled via --marionette
+
+(firefox:30583): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:30639): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:30639): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510443296319	Marionette	INFO	Listening on port 45741
+1510443296400	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510443296434	Marionette	DEBUG	Register listener.js for window 2147483649
+1510443296452	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510443297388	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510443297389	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510443297938	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.insecam.org/en/bynew/"
+1510443297957	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+1510443309417	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.insecam.org/en/bynew/"
+JavaScript error: https://www.insecam.org/en/bynew/, line 56: ReferenceError: _gaq is not defined
+1510443351681	geckodriver	INFO	geckodriver 0.19.1
+1510443351683	geckodriver	INFO	Listening on 127.0.0.1:44877
+1510443352807	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.XAnz5dW3tprv"
+
+(firefox:30757): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510443353051	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1510443353325	Marionette	INFO	Enabled via --marionette
+
+(firefox:30757): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:30812): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:30812): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510443354164	Marionette	INFO	Listening on port 34533
+1510443354224	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510443354253	Marionette	DEBUG	Register listener.js for window 2147483649
+1510443354285	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510443355214	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510443355215	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1510443355775	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.insecam.org/en/bynew/"
+1510443355799	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+1510443367549	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.insecam.org/en/bynew/"
+JavaScript error: https://www.insecam.org/en/bynew/, line 56: ReferenceError: _gaq is not defined
+1510443449298	geckodriver	INFO	geckodriver 0.19.1
+1510443449301	geckodriver	INFO	Listening on 127.0.0.1:53647
+1510443450415	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.9XbnJdZMeFEB"
+
+(firefox:30994): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510443450671	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1510443450945	Marionette	INFO	Enabled via --marionette
+
+(firefox:30994): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31055): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31055): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510443451778	Marionette	INFO	Listening on port 38615
+1510443451826	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510443451855	Marionette	DEBUG	Register listener.js for window 2147483649
+1510443451898	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510443452783	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510443452783	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510443453370	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.insecam.org/en/bynew/"
+1510443453389	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+1510443465041	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.insecam.org/en/bynew/"
+JavaScript error: https://www.insecam.org/en/bynew/, line 56: ReferenceError: _gaq is not defined
+1510443509141	geckodriver	INFO	geckodriver 0.19.1
+1510443509144	geckodriver	INFO	Listening on 127.0.0.1:54045
+1510443510261	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.hW9JHAgUaCqK"
+
+(firefox:31190): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510443510493	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1510443510764	Marionette	INFO	Enabled via --marionette
+
+(firefox:31190): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31249): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31249): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510443511608	Marionette	INFO	Listening on port 43259
+1510443511672	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510443511712	Marionette	DEBUG	Register listener.js for window 2147483649
+1510443511739	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510443512619	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510443512619	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510443513241	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.insecam.org/en/bynew/"
+1510443513259	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+1510443528572	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.insecam.org/en/bynew/"
+1510443706395	geckodriver	INFO	geckodriver 0.19.1
+1510443706399	geckodriver	INFO	Listening on 127.0.0.1:57385
+1510443707490	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.EFxLahzd3CgR"
+
+(firefox:31601): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510443707722	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1510443708001	Marionette	INFO	Enabled via --marionette
+
+(firefox:31601): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31655): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:31655): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510443708844	Marionette	INFO	Listening on port 44257
+1510443708920	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510443708954	Marionette	DEBUG	Register listener.js for window 2147483649
+1510443708972	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510443709915	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510443709916	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510443710492	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.insecam.org/en/bynew/"
+1510443710513	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+1510443711859	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483699"
+[Child 31655] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-8QqMt9/firefox-56.0+linuxmint1+sonya/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1510443942685	geckodriver	INFO	geckodriver 0.19.1
+1510443942687	geckodriver	INFO	Listening on 127.0.0.1:40119
+1510443943800	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.tLgMCm4raY18"
+
+(firefox:32020): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510443944077	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1510443944350	Marionette	INFO	Enabled via --marionette
+
+(firefox:32020): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:32075): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:32075): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510443945219	Marionette	INFO	Listening on port 45481
+1510443945314	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510443945344	Marionette	DEBUG	Register listener.js for window 2147483649
+1510443945360	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510443946455	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510443946456	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510443947047	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.insecam.org/en/bynew/"
+1510443947067	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+1510443948329	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483701"
+1510443954816	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.insecam.org/en/bynew/"
+1510444100298	geckodriver	INFO	geckodriver 0.19.1
+1510444100300	geckodriver	INFO	Listening on 127.0.0.1:54061
+1510444101402	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.X9coBOfwVqag"
+
+(firefox:32345): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510444101610	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1510444101883	Marionette	INFO	Enabled via --marionette
+
+(firefox:32345): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:32406): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:32406): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510444102729	Marionette	INFO	Listening on port 42581
+1510444102818	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510444102848	Marionette	DEBUG	Register listener.js for window 2147483649
+1510444102863	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510444103768	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510444103768	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510444104302	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.insecam.org/en/bynew/"
+1510444104323	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+1510444105635	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483698"
+1510444106196	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483702"
+1510444113355	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.insecam.org/en/bynew/"
+1510444139521	geckodriver	INFO	geckodriver 0.19.1
+1510444139524	geckodriver	INFO	Listening on 127.0.0.1:46203
+1510444140627	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.TNIdluJNYd3c"
+
+(firefox:32534): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510444140877	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1510444141150	Marionette	INFO	Enabled via --marionette
+
+(firefox:32534): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:32589): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:32589): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510444141984	Marionette	INFO	Listening on port 41193
+1510444142048	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510444142083	Marionette	DEBUG	Register listener.js for window 2147483649
+1510444142111	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510444143032	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510444143032	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+1510444144089	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.insecam.org/en/bynew/"
+1510444144090	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1510444152354	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.insecam.org/en/bynew/"
+1510444185892	geckodriver	INFO	geckodriver 0.19.1
+1510444185896	geckodriver	INFO	Listening on 127.0.0.1:43381
+1510444187023	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.bxJllJAozkLN"
+
+(firefox:32704): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510444187220	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1510444187491	Marionette	INFO	Enabled via --marionette
+
+(firefox:32704): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:32758): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:32758): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510444188344	Marionette	INFO	Listening on port 45573
+1510444188447	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510444188477	Marionette	DEBUG	Register listener.js for window 2147483649
+1510444188494	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510444189386	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510444189386	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510444189939	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.insecam.org/en/bynew/"
+1510444189962	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+1510444191329	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483702"
+1510444196554	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.insecam.org/en/bynew/"
+1510444250059	geckodriver	INFO	geckodriver 0.19.1
+1510444250062	geckodriver	INFO	Listening on 127.0.0.1:42021
+1510444251153	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.D1oIK5vR1OvC"
+
+(firefox:450): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510444251385	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1510444251666	Marionette	INFO	Enabled via --marionette
+
+(firefox:450): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:507): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:507): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510444252539	Marionette	INFO	Listening on port 34727
+1510444252564	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510444252594	Marionette	DEBUG	Register listener.js for window 2147483649
+1510444252641	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510444253577	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510444253578	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+1510444254678	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.insecam.org/en/bynew/"
+1510444254679	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483668"
+1510444261588	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.insecam.org/en/bynew/"
+1510444371796	geckodriver	INFO	geckodriver 0.19.1
+1510444371799	geckodriver	INFO	Listening on 127.0.0.1:42533
+1510444372925	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.hdB9p10uknZ4"
+
+(firefox:696): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510444373136	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1510444373410	Marionette	INFO	Enabled via --marionette
+
+(firefox:696): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:751): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:751): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510444374246	Marionette	INFO	Listening on port 44053
+1510444374345	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510444374375	Marionette	DEBUG	Register listener.js for window 2147483649
+1510444374390	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510444375281	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510444375282	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510444375844	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.insecam.org/en/bynew/"
+1510444375867	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+1510444377195	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483704"
+1510444387193	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.insecam.org/en/bynew/"
+1510444891548	geckodriver	INFO	geckodriver 0.19.1
+1510444891552	geckodriver	INFO	Listening on 127.0.0.1:33593
+1510444892676	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ZBHgxzSo7NOR"
+
+(firefox:1330): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510444892883	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1510444893152	Marionette	INFO	Enabled via --marionette
+
+(firefox:1330): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:1385): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:1385): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510444893995	Marionette	INFO	Listening on port 35119
+1510444894095	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510444894127	Marionette	DEBUG	Register listener.js for window 2147483649
+1510444894143	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510444895200	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510444895200	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510444895759	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.insecam.org/en/bynew/"
+1510444895784	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+1510444897152	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483699"
+1510444897862	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483703"
+1510444904658	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.insecam.org/en/bynew/"
+1510447367660	geckodriver	INFO	geckodriver 0.19.1
+1510447367663	geckodriver	INFO	Listening on 127.0.0.1:45583
+1510447368755	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ijrv3K4N5Ksi"
+
+(firefox:3035): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510447368986	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1510447369265	Marionette	INFO	Enabled via --marionette
+
+(firefox:3035): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:3118): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+
+(/usr/lib/firefox/firefox:3118): Gtk-WARNING **: Theme parsing error: gtk.css:2808:8: Missing name of pseudo-class
+1510447370160	Marionette	INFO	Listening on port 43877
+1510447370265	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510447370294	Marionette	DEBUG	Register listener.js for window 2147483649
+1510447370309	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510447371319	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510447371319	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510447371840	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.insecam.org/en/bynew/"
+1510447371874	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+1510447374504	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.insecam.org/en/bynew/"
