@@ -1,26 +1,15 @@
 # from selenium.webdriver.firefox.firefox_binary import FirefoxBinary
 # from selenium.webdriver.common.keys import Keys
 # from selenium import webdriver
-from bs4 import BeautifulSoup
-from skimage import io
-import requests
-import random
-from threading import Thread
-from time import sleep
+import cv2
 import time
-import matplotlib.pyplot as plt
-import matplotlib.image as mpimg
-from collections import deque
-from skimage import data
-from skimage.viewer import ImageViewer
-from skimage.viewer import CollectionViewer
-from PyQt5 import QtGui, QtCore, QtWidgets
-from PyQt5.QtGui import *
-from PyQt5.QtCore import *
-from PyQt5.QtWidgets import *
 import tkinter as tk
 from tkinter import *
+
+import requests
 from PIL import ImageTk, Image
+from bs4 import BeautifulSoup
+from skimage import io
 
 sources = []
 ix = 0
@@ -33,20 +22,30 @@ def update_v():
 	global sources
 	global canvas
 	try:
-		raw_img = io.imread(sources[ix])
-		print(sources[ix])
-		img = ImageTk.PhotoImage(Image.fromarray(raw_img, 'RGB'))
-		panel.img = img
-		panel.configure(image=img)
-		print('1')
+		url = sources[ix]
+		if url.endswith('.cgi'):
+			print('!!!')
+
+		else:
+			print('Getting image ' + url)
+			raw_img = io.imread(url)
+			img = ImageTk.PhotoImage(Image.fromarray(raw_img, 'RGB'))
+			panel.img = img
+			panel.configure(image=img)
+			canvas.update_idletasks()
 	except Exception as ex:
 		print(ex)
 		print(sources.pop(ix))
-	root.after(100, update_v)
+	root.after(1, update_v)
 
-def keydown(e=None):
+def decr_ix(e=None):
+	global ix
+	ix-=1
+def incr_ix(e=None):
+	global ix
+	ix+=1
+def exit_safely(e):
 	sys.exit(0)
-	print('!!', e.char if e else None, flush=True)
 
 def keep_updating_image():
 	global root
@@ -74,12 +73,14 @@ def keep_updating_image():
 	# canvas.bind('<w>', keydown)
 	# canvas.bind('<KeyPress-w>', keydown)
 	canvas = tk.Frame(master=root)
-	root.bind('<Escape>', keydown)
+	root.bind('<Escape>', exit_safely)
+	root.bind('<Left>', decr_ix)
+	root.bind('<Right>', incr_ix)
 	canvas.pack(side='bottom', fill='both', expand='yes')
 	panel = tk.Label(master=canvas)
 	# panel.ix = ix
 	panel.pack(side='bottom', fill='both', expand='yes')
-	root.after(100, update_v)
+	root.after(10, update_v)
 	# Thread(target=root.after, args=[100, update_v, root, canvas, panel,]).start()
 	# ent = tk.Entry(root)
 	# ent.bind('w', keydown)
@@ -114,8 +115,10 @@ def main(v=True):
 	ix = 0
 	for img in imgs:
 		src = img.get('src')
-		if 'google' not in src:
-			sources.append(src)
+		try:
+			if 'google' not in src:# and session.get(src, timeout=5).text:
+				sources.append(src)
+		except:pass
 	print(sources)
 	keep_updating_image()
 main()
